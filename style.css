@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(255, 163, 182);
+}
 
 .square {
     width: 200px;
@@ -14,9 +17,22 @@
     align-content: center;
     width: 618px;
     height: 618px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(233, 152, 152);
+
 }
 
 .mole {
     background-image: url('mole.jpg');
     background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.score {
+   color: #ffffff;
+   font-family: 'Merienda One', cursive;
+   margin-left: auto;
+   margin-right: auto;
 }
